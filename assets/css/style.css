@@ -106,7 +106,7 @@ div.card {
 }
 
 .btn {
-    position:sticky;
+    position:relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -183,10 +183,18 @@ div.card {
     }
 }
 
-.aaad {
+.androidd {
     color: green;
 }
 
+.applee {
+    color: rgb(230, 97, 21);
+}
+
 .downloadthegame {
-    color: #448a02be;
+    color: #2b2929be;
+}
+
+.install1 {
+    color: #4909f8be;
 }
